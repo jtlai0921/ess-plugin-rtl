@@ -28,7 +28,7 @@
     },
     "devDependencies": {
         "less": "^2.4.0",
-	    "diff": "^1.0"
+	    "diff": "^4.0"
     },
     "keywords": [
         "less plugins",
